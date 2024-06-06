@@ -19,7 +19,7 @@ This course contains lots of challenges for Algorithm, each challenge is a small
 |      06 | 🎯 Stair Climbing and Balance Prediction                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/259675'>Start Challenge</a> |
 |      07 | 🎯 Navigating Space Bridge with Java Arrays              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/266729'>Start Challenge</a> |
 |      08 | 🎯 Bubble Sort 10 Integers in C++                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298167'>Start Challenge</a> |
-|      09 | 🎯 Implementing Queue Data Structure in C                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301500'>Start Challenge</a> |
+|      09 | 🎯 Implementing Queue Data Structure in C (Challenge)    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301500'>Start Challenge</a> |
 |      10 | 🎯 Recursive Sum of Numbers in Python                    | ★★☆          | <a target='_blank' href='https://labex.io/labs/56338'>Start Challenge</a>  |
 |      11 | 🎯 Intersection of Linked Lists                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/188203'>Start Challenge</a> |
 
