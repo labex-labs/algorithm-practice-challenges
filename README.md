@@ -25,8 +25,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                                     | Difficulty   | Practice                                                                                                                                           |
-|---------|----------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                    | Difficulty   | Practice                                                                                                                                           |
+|---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
 |      01 | 🎯 Airplane Battle Game                                  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/algorithm-airplane-battle-game-271184'>Start Challenge</a>                                     |
 |      02 | 🎯 Maximize Aeroplane Chess Score Using Dynamic Progr... | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/algorithm-maximize-aeroplane-chess-score-using-dynamic-programming-270317'>Start Challenge</a> |
 |      03 | 🎯 Determine Spaceship Return Feasibility                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/algorithm-determine-spaceship-return-feasibility-269015'>Start Challenge</a>                   |
