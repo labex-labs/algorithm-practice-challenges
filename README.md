@@ -25,22 +25,22 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                                    | Difficulty   | Practice                                                                                                                                           |
-|---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 🎯 Airplane Battle Game                                  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/algorithm-airplane-battle-game-271184'>Start Challenge</a>                                     |
-|      02 | 🎯 Maximize Aeroplane Chess Score Using Dynamic Progr... | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/algorithm-maximize-aeroplane-chess-score-using-dynamic-programming-270317'>Start Challenge</a> |
-|      03 | 🎯 Determine Spaceship Return Feasibility                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/algorithm-determine-spaceship-return-feasibility-269015'>Start Challenge</a>                   |
-|      04 | 🎯 Spiral Traversal of a Tree                            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/algorithm-spiral-traversal-of-a-tree-264051'>Start Challenge</a>                               |
-|      05 | 🎯 Launching Wayne's Automated Height Calculation        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-launching-wayne-s-automated-height-calculation-270920'>Start Challenge</a>                |
-|      06 | 🎯 Stair Climbing and Balance Prediction                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-stair-climbing-and-balance-prediction-259675'>Start Challenge</a>                         |
-|      07 | 🎯 Navigating Space Bridge with Java Arrays              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-navigating-space-bridge-with-java-arrays-266729'>Start Challenge</a>                      |
-|      08 | 🎯 Bubble Sort 10 Integers in C++                        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-bubble-sort-10-integers-in-c-298167'>Start Challenge</a>                                   |
-|      09 | 🎯 Recursive Sum of Numbers in Python                    | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/algorithm-recursive-sum-of-numbers-in-python-56338'>Start Challenge</a>                        |
-|      10 | 🎯 Intersection of Linked Lists                          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/algorithm-intersection-of-linked-lists-188203'>Start Challenge</a>                             |
+|   Index | Name                                                    | Difficulty   | Practice                                                                                                                                      |
+|---------|---------------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 🎯 Airplane Battle Game                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/algorithm-airplane-battle-game-271184'>Start Challenge</a>                                     |
+|      02 | 🎯 Maximize Aeroplane Chess Score Using Dynamic Progr... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/algorithm-maximize-aeroplane-chess-score-using-dynamic-programming-270317'>Start Challenge</a> |
+|      03 | 🎯 Determine Spaceship Return Feasibility                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/algorithm-determine-spaceship-return-feasibility-269015'>Start Challenge</a>                   |
+|      04 | 🎯 Spiral Traversal of a Tree                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/algorithm-spiral-traversal-of-a-tree-264051'>Start Challenge</a>                               |
+|      05 | 🎯 Launching Wayne's Automated Height Calculation        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/java-launching-wayne-s-automated-height-calculation-270920'>Start Challenge</a>                |
+|      06 | 🎯 Stair Climbing and Balance Prediction                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/java-stair-climbing-and-balance-prediction-259675'>Start Challenge</a>                         |
+|      07 | 🎯 Navigating Space Bridge with Java Arrays              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/java-navigating-space-bridge-with-java-arrays-266729'>Start Challenge</a>                      |
+|      08 | 🎯 Bubble Sort 10 Integers in C++                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/cpp-bubble-sort-10-integers-in-c-298167'>Start Challenge</a>                                   |
+|      09 | 🎯 Recursive Sum of Numbers in Python                    | ★★☆          | <a target='_blank' href='https://labex.io/labs/algorithm-recursive-sum-of-numbers-in-python-56338'>Start Challenge</a>                        |
+|      10 | 🎯 Intersection of Linked Lists                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/algorithm-intersection-of-linked-lists-188203'>Start Challenge</a>                             |
 
 ## More
 
 - 🔗 [ Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
 - 🔗 [ Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [ Free Tutorials](https://github.com/labex-labs/-free-tutorials)
+- 🔗 [ Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
 
